@@ -1,19 +1,9 @@
-##########################################
-##               GDLambda               ##
-##########################################
-## MIT License                          ##
-## Copyright (c) 2022 Wichamir          ##
-## https://github.com/Wichamir/gdlambda ##
-##########################################
-
-
 # GDLambda is a small, pure GDScript library adding lambdas
 # and basic functional programming features to Godot 3.
 class_name gdl extends Reference
 
 
-# Looking for examples?
-# See README.md and examples.gd
+# See README.md and examples.gd for examples.
 
 # Variables and functions prefixed with an underscore should be
 # considered (by convention) as private and should not be accessed
