@@ -1,7 +1,5 @@
 # GDLambda
 
-![icon](icon.png)
-
 GDLambda is a small, experimental, pure GDScript library adding lambdas and basic functional programming features to Godot 3. Most of these are already available in Godot 4.
 
 ## Installation
